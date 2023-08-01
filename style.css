@@ -1,0 +1,13 @@
+canvas{
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border-radius: 2px;
+    border: 2px;
+}
+body{
+    background-color: aquamarine;
+}
+h3{
+    font-size: 40px;
+}
